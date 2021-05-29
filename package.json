@@ -1,6 +1,8 @@
 {
   "name": "np-7.5.0-issue",
   "version": "0.0.0",
+  "files": [],
+  "license": "MIT",
   "main": "main.json",
   "dependencies": {
     "np": "7.5.0"
