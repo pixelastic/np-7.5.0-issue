@@ -4,6 +4,9 @@
   "files": [],
   "license": "MIT",
   "main": "main.json",
+  "scripts": {
+    "np": "np"
+  },
   "dependencies": {
     "np": "7.5.0"
   }
